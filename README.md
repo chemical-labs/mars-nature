@@ -1,2 +1,2 @@
 # mars-nature
-Simple application for check weather condition in mars
+Application for check living condition in mars
